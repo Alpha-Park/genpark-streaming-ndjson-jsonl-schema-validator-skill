@@ -1,0 +1,21 @@
+{
+  "name": "genpark-streaming-ndjson-jsonl-schema-validator-skill",
+  "version": "1.0.1",
+  "description": "Ultra-low-latency incremental line validator with chunk boundary reassembly, schema auditing, and quarantine logging",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "ndjson",
+    "jsonl",
+    "streaming-parser",
+    "schema-validation",
+    "chunk-reassembly",
+    "python-standard-library",
+    "agent-skills",
+    "data-pipeline",
+    "telemetry",
+    "data-quality"
+  ]
+}
